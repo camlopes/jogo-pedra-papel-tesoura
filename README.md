@@ -1,4 +1,4 @@
-# Java pedra, papel e tesoura
+# Jogo pedra, papel e tesoura
 
 ## Descrição do projeto
 Programa que simula o jogo pedra, papel e tesoura
