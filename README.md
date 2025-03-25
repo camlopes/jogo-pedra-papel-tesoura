@@ -10,4 +10,5 @@ Programa que simula o jogo pedra, papel e tesoura
 - `Escolher continuidade do jogo:` O programa vai perguntar para os usuários se eles querem continuar jogando.
 
 A imagem abaixo exibe parte da execução do programa:
+
 ![image](https://github.com/user-attachments/assets/1036361f-8b5d-482a-bdd4-f920f6eb8745)
